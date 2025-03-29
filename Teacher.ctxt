@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Teacher
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Teacher\ here.\r\n\r\n\ @author\ (Prabuddha\ Pal)\r\n\ @version\ (26\ th\ of\ June\ 2024)\r\n
+comment1.params=
+comment1.target=void\ get_data()
+comment2.params=
+comment2.target=void\ show_getdata()
+numComments=3
